@@ -1,0 +1,9 @@
+E:\CodeTest\Apps\NetworkLib\bin\Debug\netcoreapp3.1\NetworkLib.deps.json
+E:\CodeTest\Apps\NetworkLib\bin\Debug\netcoreapp3.1\NetworkLib.dll
+E:\CodeTest\Apps\NetworkLib\bin\Debug\netcoreapp3.1\NetworkLib.pdb
+E:\CodeTest\Apps\NetworkLib\obj\Debug\netcoreapp3.1\NetworkLib.csprojAssemblyReference.cache
+E:\CodeTest\Apps\NetworkLib\obj\Debug\netcoreapp3.1\NetworkLib.AssemblyInfoInputs.cache
+E:\CodeTest\Apps\NetworkLib\obj\Debug\netcoreapp3.1\NetworkLib.AssemblyInfo.cs
+E:\CodeTest\Apps\NetworkLib\obj\Debug\netcoreapp3.1\NetworkLib.csproj.CoreCompileInputs.cache
+E:\CodeTest\Apps\NetworkLib\obj\Debug\netcoreapp3.1\NetworkLib.dll
+E:\CodeTest\Apps\NetworkLib\obj\Debug\netcoreapp3.1\NetworkLib.pdb
